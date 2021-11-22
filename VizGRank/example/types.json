@@ -1,0 +1,10 @@
+{
+    "Year": "object",
+    "City": "object",
+    "Country": "object",
+    "Continent": "object",
+    "Sport": "object",
+    "Gender": "object",
+    "Medal": "object",
+    "Number": "float32"
+}
