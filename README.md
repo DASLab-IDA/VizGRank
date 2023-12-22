@@ -38,3 +38,7 @@ a)	数据文件路径csv_path，对应文件格式为csv格式。样例见exampl
 b)	以json格式指定csv中各列的数据类型，使用Pandas中的数据类型。样例见example下types.json
 
 ####  输出：html格式的渲染完成的可视化结果，样例见html下的data_all.html
+
+### Citation
+
+Qianfeng Gao, Zhenying He, Yinan Jing, Kai Zhang, and X. Sean Wang. 2021. VizGRank: A Context-Aware Visualization Recommendation Method Based on Inherent Relations Between Visualizations. In Database Systems for Advanced Applications: 26th International Conference, DASFAA 2021, Taipei, Taiwan, April 11–14, 2021, Proceedings, Part III. Springer-Verlag, Berlin, Heidelberg, 244–261. https://doi.org/10.1007/978-3-030-73200-4_16
